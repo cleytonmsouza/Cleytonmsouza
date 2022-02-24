@@ -2,13 +2,13 @@
 
 
 
-- 🔭 Sou web desgn e Front-end.
+- 🔭 Sou formado em web design e Front-end.
 - 🌱 Estou estudando beck-end para me tornar full-stack.
 - 👯 Colaboro com outros devs que estão iniciando assim como eu no ramos da programação.
 - 🤔 Busco ajuda sempre nas comunidades de devs para poder chegar ao proximo Nivel! 
 - 🚀 Estou em busca de uma oportunidade no mercado e me Coloco a diposição para mais informações!
-     O fato sobre eu: sou Projetista e Modelador 3d, mas amo programação! Por isso quero migrar 
-     para me tronar um desenvolvedor profissionalemnte e não como freelancer. 💪
+     O fato sobre mim: sou Projetista e Modelador 3d, mas amo programação! Por isso quero migrar 
+     para me tronar um desenvolvedor profissionalmente. 💪
       
    ##
    
