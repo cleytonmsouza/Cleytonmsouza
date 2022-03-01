@@ -8,7 +8,7 @@
 - 🤔 Busco ajuda sempre nas comunidades de devs para poder chegar ao proximo Nivel! 
 - 🚀 Estou em busca de uma oportunidade no mercado e me Coloco a diposição para mais informações!
      O fato sobre mim: sou Projetista e Modelador 3d, mas amo programação! Por isso quero migrar 
-     para me tornar um desenvolvedor profissionalmente. 💪
+     para me tornar um desenvolvedor Full Stack. 💪
       
    ##
    
